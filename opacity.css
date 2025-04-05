@@ -1,0 +1,47 @@
+.division_1 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 0;
+  margin-right: 70px;
+  margin-left: 20px;
+  text-decoration: none;
+  color: black;
+}
+body {
+  margin: 0;
+}
+header {
+  background-color: rgb(251, 176, 149);
+}
+a {
+  text-decoration: none;
+  color: purple;
+}
+img {
+  height: 60px;
+  width: 70px;
+  margin-right: 60px;
+}
+#para {
+  margin-left: 120px;
+}
+#image3 {
+  margin-left: 1200px;
+  margin-top: -66px;
+  display: flex;
+  transform: scale(2.5);
+  opacity: 1;
+}
+#image2 {
+  margin-left: 500px;
+  transform: scale(2.5);
+  margin-right: 40px;
+  opacity: 0.5;
+}
+#image1 {
+  transform: scale(2.5);
+  margin-top: 100px;
+  margin-left: 70px;
+  opacity: 0.2;
+}
